@@ -5,28 +5,28 @@
   margin: 0 auto;
 }
 
-.gradientText0 {
+.gradient-text-0 {
   background: -webkit-linear-gradient(#bfa3da, #84309c, #c735b0);
   -webkit-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
-.gradientText1 {
+.gradient-text-1 {
   background: -webkit-linear-gradient(#a79af9, #7aa8d2);
   -webkit-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
-.gradientText2 {
+.gradient-text-2 {
   background: -webkit-linear-gradient(#bfa3da, #743f93);
   -webkit-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
-.gradientText3 {
+.gradient-text-3 {
   background: -webkit-linear-gradient(#c35ab1, #e9a8d9);
   -webkit-background-clip: text;
   background-clip: text;
@@ -87,7 +87,7 @@
   border: none;
 }
 
-.cardText {
+.card-text {
   padding: 1rem;
 }
 
